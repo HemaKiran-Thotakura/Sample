@@ -1,4 +1,4 @@
-🧪 Sample Lab
+🧪 Sample
 
 Welcome! This is a dedicated staging area and sandbox for my GitHub experiments.
 
